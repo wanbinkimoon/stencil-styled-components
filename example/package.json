@@ -12,7 +12,9 @@
   "dependencies": {
     "@stencil/core": "^0.17.0",
     "@stencil/router": "~0.3.0",
-    "stencil-styled-components": "^1.3.4"
+    "hyperscript": "^2.0.2",
+    "stencil-styled-components": "^1.3.4",
+    "stylis": "^3.5.4"
   },
   "repository": {
     "type": "git",
